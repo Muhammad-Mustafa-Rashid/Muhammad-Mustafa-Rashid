@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+This Profile belongs to Muhammad Mustafa Rashid. 
+---
+Muhammad Mustafa Rashid holds a Bachelor of Arts in Philosophy, and an MBA and MA in Economics. He is also a published author in the field of economcis and philosophy having published in a variety of journals and books.
+---
 <!--
 **Muhammad-Mustafa-Rashid/Muhammad-Mustafa-Rashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
