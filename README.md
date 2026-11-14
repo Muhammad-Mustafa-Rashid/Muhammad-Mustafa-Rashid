@@ -9,7 +9,7 @@ I’m especially interested in the intersection of ideas, society, decision-maki
 - 🎓 Education: BA in Philosophy, MBA, MA in Economics
 - ✍️ Author: Published work in economics and philosophy
 - 💡 Interests: philosophy, economics, critical thinking, research, writing, and social systems
-- 🌱 Currently learning: [A variety of topics, related to philosophy, economics, business with a special interest in physics and quantative finance]
+- 🌱 Currently learning: [A variety of topics, related to philosophy, economics, business with a special interest in quantitative finance and physics]
 - 🤝 Open to: collaborations, writing opportunities, research discussions, and meaningful conversations
 - 📫 Reach me: [through git hub]
 
