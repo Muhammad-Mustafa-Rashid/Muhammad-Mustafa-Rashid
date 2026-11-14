@@ -1,19 +1,18 @@
 ## Hi there 👋
-This Profile belongs to Muhammad Mustafa Rashid. 
----
-Muhammad Mustafa Rashid holds a Bachelor of Arts in Philosophy, and an MBA and MA in Economics. He is also a published author in the field of economcis and philosophy having published in a variety of journals and books.
----
-<!--
-**Muhammad-Mustafa-Rashid/Muhammad-Mustafa-Rashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m Muhammad Mustafa Rashid — a thinker, writer, and lifelong learner with a background in philosophy, economics, and business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a Bachelor of Arts in Philosophy, an MBA, and an MA in Economics. I am also a published author in the fields of economics and philosophy, with work spanning critical thought, economic inquiry, and human-centered analysis.
+
+I’m especially interested in the intersection of ideas, society, decision-making, and meaningful progress. I enjoy learning, writing, and exploring how intellectual inquiry can inform both personal and professional life.
+
+- 🎓 Education: BA in Philosophy, MBA, MA in Economics
+- ✍️ Author: Published work in economics and philosophy
+- 💡 Interests: philosophy, economics, critical thinking, research, writing, and social systems
+- 🌱 Currently learning: [Add a topic you’re exploring]
+- 🤝 Open to: collaborations, writing opportunities, research discussions, and meaningful conversations
+- 📫 Reach me: [Add LinkedIn / email / portfolio]
+
+Thanks for visiting my profile — I appreciate your time and interest.
+
+---
