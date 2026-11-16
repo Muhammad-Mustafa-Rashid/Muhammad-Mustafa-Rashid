@@ -6,7 +6,7 @@ I hold a Bachelor of Arts in Philosophy, an MBA, and an MA in Economics. I am al
 
 I’m especially interested in the intersection of ideas, society, decision-making, and meaningful progress. I enjoy learning, writing, and exploring how intellectual inquiry can inform both personal and professional life.
 
-- 🎓 Education: BA in Philosophy, MBA, MA in Economics
+- 🎓 Education: AB in Philosophy, MBA, MA in Economics
 - ✍️ Author: Published work in economics and philosophy
 - 💡 Interests: philosophy, economics, critical thinking, research, writing, and social systems
 - 🌱 Currently learning: [A variety of topics, related to philosophy, economics, business with a special interest in quantitative finance and physics]
