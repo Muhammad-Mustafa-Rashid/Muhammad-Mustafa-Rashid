@@ -11,7 +11,7 @@ I’m especially interested in the intersection of ideas, society, decision-maki
 - 💡 Interests: philosophy, economics, business, research, fine arts. 
 - 🌱 Currently learning: A variety of topics, related to philosophy, economics, business. I also have a keen interest in creative writing and fine arts. 
 - 🤝 Open to: collaborations, writing opportunities, research discussions, and meaningful conversations
-- 📫 Reach me: [[through git hub](https://github.com/Muhammad-Mustafa-Rashid/website/wiki)]
+- 📫 Reach me: [[My Website](https://github.com/Muhammad-Mustafa-Rashid/website/wiki)]
 
 Thanks for visiting my profile — I appreciate your time and interest.
 
