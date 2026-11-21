@@ -9,7 +9,7 @@ I’m especially interested in the intersection of ideas, society, decision-maki
 - 🎓 Education: AB in Philosophy, MA in Economics and MBA. 
 - ✍️ Author: Published work in economics and philosophy
 - 💡 Interests: philosophy, economics, business, research, fine arts. 
-- 🌱 Currently learning: A variety of topics, related to philosophy, economics, business, with a special interest in finance and physics. I also have a keen interest in creative writing and fine arts. 
+- 🌱 Currently learning: A variety of topics, related to philosophy, economics, business, with a special interest philosophical logic logic, metaphysics, ethics , political philosophy and philosophy of law. I also have a keen interest in creative writing and fine arts. 
 - 🤝 Open to: collaborations, writing opportunities, research discussions, and meaningful conversations
 - 📫 Reach me: [[My Website](https://github.com/Muhammad-Mustafa-Rashid/website/wiki)]
 
