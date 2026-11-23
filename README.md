@@ -14,7 +14,7 @@
     </a>
 I’m Muhammad Mustafa Rashid — a thinker, writer, and lifelong learner with a background in philosophy, economics, and business.
 
-I hold a Bachelor of Arts in Philosophy, an MBA, and an MA in Economics. I am also a published author in the fields of economics and philosophy, with work spanning critical thought, economic inquiry, ethics, law and human-centered analysis.
+I hold a Bachelor of Arts in Philosophy from University of California, an MBA, and an MA in Economics. I am also a published author in the fields of economics and philosophy, with work spanning critical thought, economic inquiry, ethics, law and human-centered analysis.
 
 I’m especially interested in the intersection of ideas, society, decision-making, and meaningful progress. I enjoy learning, writing, and exploring how intellectual inquiry can inform both personal and professional life.
 
